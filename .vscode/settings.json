@@ -1,0 +1,17 @@
+{
+    "[csharp]": {
+        "editor.defaultFormatter": "SimonSiefke.prettier-vscode"
+    },
+    "csharp.format.enable": true,
+    "csharp.inlayHints.parameters.enabled": true,
+    "csharp.inlayHints.parameters.forIndexerParameters": false,
+    "csharp.inlayHints.parameters.forOtherParameters": false,
+    "omnisharp.analyzeOpenDocumentsOnly": false,
+    "csharpextensions.reFormatAfterChange": true,
+    "csharpfixformat.sort.usings.enabled": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    }
+}
